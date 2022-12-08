@@ -1,3 +1,7 @@
+# About this App
+
+Created following udemy course. This is a simple MEAN stack social posting app.
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
